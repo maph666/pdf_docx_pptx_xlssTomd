@@ -1,4 +1,4 @@
-# mdtox GUI
+# pdfdocspptxxslxTomd GUI
 
 📁 **Archivos necesarios para su funcionamiento**
 
@@ -76,4 +76,3 @@ Contribuciones
 Licencia
 
 - MIT
-
