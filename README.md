@@ -1,4 +1,4 @@
-# pdfdocspptxxslxTomd GUI
+# pdf,docx,pptx,xslsx To md Interfaz GUI python
 
 📁 **Archivos necesarios para su funcionamiento**
 
