@@ -4,7 +4,7 @@
 
 - `gui.py` — Interfaz gráfica (Tkinter): seleccionar archivo de entrada y generar `.md`.
 - `converter.py` — Lógica principal de conversión (soporta PDF, DOCX, PPTX, XLSX → Markdown).
-- `api.py` — Interfaz de línea de comandos (usa `markitdown` bajo el capó).
+- `api.py` — Interfaz de línea de comandos (usa `markitdown` bajo linea de comando).
 - `app.py` — Punto de entrada alternativo / lanzador de la aplicación.
 - `requirements.txt` — Dependencias necesarias para ejecutar las conversiones.
 - `tests/` — Scripts de prueba y ejemplos (`tests/run_input_to_md_tests.py`, `tests/sample.md`).
