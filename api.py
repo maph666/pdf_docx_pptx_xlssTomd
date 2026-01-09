@@ -6,7 +6,7 @@ from markitdown import MarkItDown
 
 def main():
     parser = argparse.ArgumentParser(description="Convert a file to Markdown using markitdown")
-    parser.add_argument("input", nargs="?", default="convocatoria-pias-2026.pdf", help="Input file (default: cap.pdf)")
+    parser.add_argument("input", nargs="?", default="archivo.pdf", help="Input file (default: archivo.pdf)")
     parser.add_argument("-o", "--output", help="Output .md file (default: same name as input with .md extension)")
     args = parser.parse_args()
 
